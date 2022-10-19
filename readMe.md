@@ -9,7 +9,6 @@ In This Project Index page is there which is the main content of the project.Ins
 
 
 Screenshots 
-<img src = ""></img>
-<br>
-<img src = ""></img>
+<img src = "images.png"></img>
+
 
