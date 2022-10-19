@@ -1,4 +1,4 @@
-# Responsive Fashion E-commerce Website Template with HTML, CSS & JavaScript
+# Responsive Fashion E-commerce Website with HTML, CSS & JavaScript
 
 Requirements:1.Windows
              2.Visual Studio Code
@@ -9,6 +9,6 @@ In This Project Index page is there which is the main content of the project.Ins
 
 
 Screenshots 
-<img src = "images.png"></img>
+<img src = "]sdfsd.png"></img>
 
 
